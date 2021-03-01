@@ -1,0 +1,3 @@
+export const ACTION_TYPES = {
+    TOOGLE_AUTH:"TOOGLE_AUTH"
+}
